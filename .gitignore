@@ -1,0 +1,7 @@
+.venv/
+__pycache__
+videos/*
+**/*.jpg
+data/bak/*
+.DS_Store
+*.pkl

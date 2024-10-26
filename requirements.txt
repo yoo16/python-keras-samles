@@ -1,0 +1,14 @@
+opencv-python
+pygame
+scikit-learn
+seaborn
+protobuf==4.23.3
+grpcio-status==1.54.0
+tensorflow==2.16.2
+tensorflow-macos==2.16.2  # Apple Silicon (M1/M2)向け
+tensorflow-metal==0.8.0   # Metal GPUサポート (Apple Silicon向け)
+numpy==1.24.3             # 互換性のあるNumPyバージョン
+scipy==1.11.1             # 科学計算ライブラリ
+opencv-python==4.8.0.76   # 画像処理ライブラリ
+matplotlib==3.7.1         # 可視化ライブラリ
+pandas==2.0.3             # データ操作ライブラリ
