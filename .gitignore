@@ -5,3 +5,4 @@ videos/*
 data/bak/*
 .DS_Store
 *.pkl
+*.h
